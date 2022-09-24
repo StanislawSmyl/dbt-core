@@ -1,3 +1,0 @@
-import datetime
-
-def parse_timezone(s: str) -> datetime.timezone: ...
